@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/0Vexis0/threat-hunting-scenario-tor-browser)**
 - **[Threat Hunting Scenario (Port Scan Usage) ](https://github.com/0Vexis0/threat-hunting-scenario-portscan)**
-_**[Threat Hunting Scenario (Unknown) ](https://github.com/0Vexis0/Threat-Hunting-Project-nameunknown)**
+- **[Threat Hunting Scenario (Unknown) ](https://github.com/0Vexis0/Threat-Hunting-Project-nameunknown)**
 <hr/>
 
 
