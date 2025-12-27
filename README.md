@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/hasanvexis/">hasan vexis</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is a field I hold a great deal of respect for. I approach it through hands-on work, focusing on understanding how systems fail, how threats emerge, and how they can be addressed in practical ways. Many security issues stem not from malice, but from gaps in awareness and design. These projects reflect a steady effort to recognize those gaps and contribute work that strengthens security operations with clarity, responsibility, and purpose.
 
 
 ## ⚠️ Vulnerability Management Projects
