@@ -15,6 +15,7 @@ Cybersecurity is a field I hold a great deal of respect for. I approach it throu
 - **[Threat Hunting Scenario (Unknown) ](https://github.com/0Vexis0/Threat-Hunting-Project-nameunknown)**
 <hr/>
 
+## ⚠️ Windows 10 Stig implementation 
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
