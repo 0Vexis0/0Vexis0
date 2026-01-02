@@ -12,7 +12,7 @@ Cybersecurity is a field I hold a great deal of respect for. I approach it throu
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/0Vexis0/threat-hunting-scenario-tor-browser)**
 - **[Threat Hunting Scenario (Port Scan Usage) ](https://github.com/0Vexis0/threat-hunting-scenario-portscan)**
-- **[Threat Hunting Scenario (Unknown) ](https://github.com/0Vexis0/Threat-Hunting-Project-nameunknown)**
+- **[Threat Hunting Scenario (Azuki Breach) ](https://github.com/0Vexis0/Threat-Hunting-Project-nameunknown)**
 <hr/>
 
 
