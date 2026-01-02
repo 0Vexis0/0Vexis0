@@ -7,7 +7,7 @@ Cybersecurity is a field I hold a great deal of respect for. I approach it throu
 
 - **[Vulnerability Management Program Implementation](https://github.com/0Vexis0/Vexis-vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- 
+- **[STIG Implementation (STIG and Tenable)](https://github.com/0Vexis0/Windows-10-STIG-Implementation)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/0Vexis0/threat-hunting-scenario-tor-browser)**
